@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Jakub Kolář aka @Jakewh
+- 👀 I’m interested in Python.
+- 🌱 I am currently learning to better understand Python.
+- 💞️ I’m looking to collaborate on ...
+- 📫 You can contact me at kolarkuba@gmail.com
