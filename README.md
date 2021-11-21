@@ -7,4 +7,4 @@
 - 📫 You can contact me at kolarkuba@gmail.com
 
 👨‍🏫 Basic repo with my learning code.
-https://github.com/Jakewh/Python_uceni.git
+- https://github.com/Jakewh/Python_uceni.git
