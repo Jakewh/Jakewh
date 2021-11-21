@@ -5,7 +5,10 @@
 - 🌱 I am currently learning to better understand Python. In the future, I plan to deal with SQL and Qt.
 - 💞️ I’m looking to collaborate on ...?
 - 📫 You can contact me at kolarkuba@gmail.com
-
-
+<HR>
+<blockquote>
+      <p>It's easier to believe in something than to understand something.</p>
+    </blockquote>
+<HR>
 
 👨‍🏫 <a href=https://github.com/Jakewh/Python_uceni.git>Basic repo with my learning code.</a>
