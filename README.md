@@ -6,5 +6,5 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can contact me at kolarkuba@gmail.com
 
-
-Basic repo with learning code. - https://github.com/Jakewh/Python_uceni.git
+👨‍🏫 Basic repo with my learning code.
+https://github.com/Jakewh/Python_uceni.git
