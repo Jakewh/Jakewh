@@ -10,5 +10,3 @@
       <p>It's easier to believe in something than to understand something.</p>
     </blockquote>
 <HR>
-
-👨‍🏫 <a href=https://github.com/Jakewh/Python_uceni.git>Basic repo with my learning code.</a>
