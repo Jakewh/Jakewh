@@ -10,4 +10,4 @@
     </blockquote>
 <HR>
 
-Jsem sice vyučený elektrikář, ale vždy mě to táhlo k počítačům. Rád jsem počítače rozdělával a zase skládal. Naštěstí vždy zase fungovalo :) Momentálně pracuji jako servisní technik výherních automatů a učím se programovat Python. Zajímám se o kryptoměny, různé blockchainy a jejich ekosystémy. Mám rád linux a obecně preferuji a podporuji open source software. 
+Vždy mě to táhlo k počítačům. Rád jsem počítače rozdělával a zase skládal. Naštěstí vždy vše zase fungovalo :) Momentálně pracuji jako servisní technik výherních automatů a učím se programovat Python. Zajímám se o kryptoměny, různé blockchainy a jejich ekosystémy. Mám rád linux a obecně preferuji a podporuji open source software. 
