@@ -6,7 +6,7 @@
 
 <HR>
 <blockquote>
-      <p>It's easier to believe in something than to understand something.</p>
+      <p>It"s easier to believe in something than to understand something.</p>
     </blockquote>
 <HR>
 
