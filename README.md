@@ -22,9 +22,9 @@
 
 - 👋 Hi, I’m Jakub Kolář aka @Jakewh. Made in Czech republic in 1987.
 - 👀 I’m interested in Python. I am also interested in vineyards and wine production, modern technology, Linux and open source.
-- 🌱 I am currently learning to better understand Python.
+- 🌱 I am currently learning to better understand Python, SQL and linux systems.
 - 💞️ I'm looking for collaboration on any project where I can consolidate my foundations in Python and further improve.
-- 📫 You can contact me at kolarkuba@gmail.com
+- 📫 You can contact me at kolarkuba@gmail.com or LinkedIn profile.
 
 <div align="center">
   <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="600" height="300"/>
