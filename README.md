@@ -8,6 +8,7 @@
   <a href="https://twitter.com/JakubKo00475128">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <img src="https://img.shields.io/badge/-linux-lightgrey">
 </div>
 </div>
 <div id="badges" align="center">
