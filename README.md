@@ -40,3 +40,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jakewh&theme=dark&background=000000)](https://git.io/streak-stats)
       
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jakewh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+ 
+  <div id="badges" align="center">
+    <a href="https://twitter.com/JakubKo00475128">
+      <img src="https://img.shields.io/twitter/follow/JakubKo00475128?style=social">
