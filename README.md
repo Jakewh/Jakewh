@@ -27,7 +27,7 @@
 - 📫 You can contact me at kolarkuba@gmail.com or LinkedIn profile.
 
 <div align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="480" height="360"/>
 </div>
 
 <HR>
