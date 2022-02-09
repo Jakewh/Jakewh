@@ -25,6 +25,7 @@
 - 🌱 I am currently learning to better understand Python, SQL and linux systems.
 - 💞️ I'm looking for collaboration on any project where I can consolidate my foundations in Python and further improve.
 - 📫 You can contact me at kolarkuba@gmail.com or LinkedIn profile.
+- 🚼 Someone adopts a promising "prejunior"? Good, affectionate and docile.
 
 <div align="center">
   <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="480" height="360"/>
