@@ -20,14 +20,16 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
-- 👋 Hi, I’m Jakub Kolář aka @Jakewh. Made in Czech republic in 1987.
-- 👀 I’m interested in Python. I am also interested in vineyards and wine production, modern technology, Linux and open source.
-- 🌱 I am currently learning to better understand Python, SQL and linux systems.
-- 💞️ I'm looking for collaboration on any project where I can consolidate my foundations in Python and further improve.
-- 📫 You can contact me at kolarkuba@gmail.com or LinkedIn profile.
+  
+<p align="left">
+- 👋 Hi, I’m Jakub Kolář aka @Jakewh. Made in Czech republic in 1987.<br>
+- 👀 I’m interested in Python. I am also interested in vineyards and wine production, modern technology, Linux and open source.<br>
+- 🌱 I am currently learning to better understand Python, SQL and linux systems.<br>
+- 💞️ I'm looking for collaboration on any project where I can consolidate my foundations in Python and further improve.<br>
+- 📫 You can contact me at kolarkuba@gmail.com or LinkedIn profile.<br>
 - 🚼 Someone adopts a promising "prejunior"? Good, affectionate and docile.
-
+</p>
+  
 <div align="center">
   <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="480" height="360"/>
 </div>
