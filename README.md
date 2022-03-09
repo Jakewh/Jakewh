@@ -46,5 +46,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jakewh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
  
   <div id="badges" align="center">
-    <a href="https://twitter.com/JakubKo00475128">
-      <img src="https://img.shields.io/twitter/follow/JakubKo00475128?style=social">
+    <a href="https://twitter.com/_JakubKolar">
+      <img src="https://img.shields.io/twitter/follow/_JakubKolar?style=social">
