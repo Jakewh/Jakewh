@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/jakub-kol%C3%A1%C5%99-a9b694195/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/JakubKo00475128">
+  <a href="https://twitter.com/_JakubKolar">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <img src="https://img.shields.io/badge/-linux-lightgrey">
