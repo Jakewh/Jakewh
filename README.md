@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/undo.gif" width="250"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/jakub-kol%C3%A1%C5%99-a9b694195/">
@@ -8,7 +8,7 @@
   <a href="https://twitter.com/_JakubKolar">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <img src="https://img.shields.io/badge/-linux-lightgrey">
+  <img src="https://img.shields.io/badge/-linux-blue">
 </div>
 <div id="badges" align="center">
       <img src="https://www.codewars.com/users/Jakewh/badges/large"> 
