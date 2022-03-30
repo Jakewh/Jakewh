@@ -11,8 +11,6 @@
   <img src="https://img.shields.io/badge/-linux-blue">
 </div>
 <div id="badges" align="center">
-      <img src="https://www.codewars.com/users/Jakewh/badges/large"> 
-  <div id="badges" align="center">
       <img src="https://komarev.com/ghpvc/?username=Jakewh&style=flat-square&color=blue" alt=""/>
 </div>
 
